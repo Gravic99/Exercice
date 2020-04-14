@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cours2</string>
+
+    <!--Buttons-->
+    <string name="btn_play">PLAY</string>
+    <string name="btn_pause">PAUSE</string>
+</resources>
