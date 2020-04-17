@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759895113479",
+    "firebase_url": "https://cours3-d5ddb.firebaseio.com",
+    "project_id": "cours3-d5ddb",
+    "storage_bucket": "cours3-d5ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759895113479:android:543e0afaf4e61687c88fa2",
+        "android_client_info": {
+          "package_name": "com.example.cours3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759895113479-od0kr0phtumkfs6n9l57nuu8o552os5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cours3",
+            "certificate_hash": "e4650db494d7e7876ef1dfc1bdcfa6b5bcc0f49e"
+          }
+        },
+        {
+          "client_id": "759895113479-u8ok8efb6ljvrinfr79jgqjflo23chtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiRmVAF75cD_el7l48X9gGIWcBS--qcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759895113479-u8ok8efb6ljvrinfr79jgqjflo23chtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
